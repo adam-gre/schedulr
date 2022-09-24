@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `post` MODIFY `status` INTEGER NOT NULL DEFAULT 0;
